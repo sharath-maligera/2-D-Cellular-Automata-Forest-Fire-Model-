@@ -1,7 +1,7 @@
 # 2-D-Cellular-Automata-Forest-Fire-Model
 - Implements a two-dimensional (d=2) (Cellular) Automaton on a 101 × 82 sized, rectangular grid using a torus toplogy to manage the boundary of the grid. 
 - Forest Fire Model:
-- Make the user set the probabilistic parameters:
+- The user should set the probabilistic parameters:
   - probablility of spontaneous growth 'p'
   - probablility of spontaneous fire 'f'
   - probablility of induced growth 'q'
